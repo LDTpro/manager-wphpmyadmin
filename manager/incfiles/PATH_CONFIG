@@ -1,0 +1,1 @@
+<?php if (!defined('_PHONHO_HPA')) die('Not access'); else $configs = array('username' => 'Admin', 'password' => '14e1b600b1fd579f47433b88e8d85291','page_list' => '50', 'page_file_edit' => '30', 'page_file_edit_line' => '30'); ?>
